@@ -14,12 +14,12 @@ a {
 }
 
 a:hover {
-    background-color: #f1a67e;
+    background-color: #f4eeba;
 }
 
 #logo-container {
     /* Change me! */
-    background-image: url('image-examples/Logo-example.png');
+    background-image: url('data:image/jpeg;base64,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');
     
     /* Centers the image */
     background-position: center center;
@@ -45,7 +45,7 @@ a:hover {
 
     /* Change me! */
     /* If you want to change back: #7D1128 */
-    background-color: #7D1128;
+    background-color: #fad4f0;
 }
 
 #header-name {
@@ -68,6 +68,8 @@ a:hover {
     align-items: start;
     justify-content: space-evenly;
     height: 100%;
+    color: #740f59;
+    
 }
 
 .item-container {
@@ -83,13 +85,14 @@ a:hover {
 .item-img {
     width: fit-content;
     height: 50%;
+    
 }
 
 .item-descriptor {
     border-radius: 10%;
-    background-color: white;
+    background-color: rgb(241, 232, 232);
     margin-top: 2.5%;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px rgb(164, 105, 105);
     padding: 5%;
     height: fit-content;
     width: 100%;
@@ -99,7 +102,7 @@ a:hover {
 }
 
 .item-name {
-    font-family: "Sarala", serif;
+    font-family: "sarala", serif;
     font-weight: 700;
     font-style: normal;
 }
@@ -115,8 +118,8 @@ a:hover {
     cursor: pointer;
 
     /* Change me! */
-    background-color: #FF7326;
-    color: ivory;
+    background-color: #ffdff7;
+    color: rgb(245, 245, 219);
 
     text-align: center;
     font-family: "Cuprum", serif;
@@ -130,8 +133,8 @@ a:hover {
 .buy-button:hover {
     /* Change me! */
     background-color: white;
-    color: black;
+    color: rgb(0, 0, 0);
     /* Original 2px solid #FF7326 */
-    border: 2px solid #FF7326;
+    border: 2px solid #e9a7a7;
 }
 
